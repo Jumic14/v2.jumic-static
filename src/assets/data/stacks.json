@@ -1,0 +1,68 @@
+[
+  {
+    "stack_id": 1,
+    "stack_name": "HTML 5",
+    "stack_icon": "https://i.imgur.com/N4QyThE.png",
+    "category_id": 2
+  },
+  {
+    "stack_id": 2,
+    "stack_name": "CSS 3",
+    "stack_icon": "https://i.imgur.com/Fmd99hI.png",
+    "category_id": 2
+  },
+  {
+    "stack_id": 3,
+    "stack_name": "Sass/Scss",
+    "stack_icon": "https://i.imgur.com/8Ar3PBw.png",
+    "category_id": 2
+  },
+  {
+    "stack_id": 4,
+    "stack_name": "JavaScript",
+    "stack_icon": "https://i.imgur.com/JdWcs4S.png",
+    "category_id": 2
+  },
+  {
+    "stack_id": 5,
+    "stack_name": "Angular",
+    "stack_icon": "https://i.imgur.com/cDJSlAT.png",
+    "category_id": 2
+  },
+  {
+    "stack_id": 6,
+    "stack_name": "React",
+    "stack_icon": "https://i.imgur.com/FUiilbB.png",
+    "category_id": 2
+  },
+  {
+    "stack_id": 7,
+    "stack_name": "Node.Js",
+    "stack_icon": "https://i.imgur.com/LKACRxw.png",
+    "category_id": 1
+  },
+  {
+    "stack_id": 8,
+    "stack_name": "Express.Js",
+    "stack_icon": "https://i.imgur.com/yifOqO9.png",
+    "category_id": 1
+  },
+  {
+    "stack_id": 9,
+    "stack_name": "MySQL",
+    "stack_icon": "https://i.imgur.com/gyKS3pr.png",
+    "category_id": 3
+  },
+  {
+    "stack_id": 10,
+    "stack_name": "MongoDB",
+    "stack_icon": "https://i.imgur.com/r7sbY6b.png",
+    "category_id": 3
+  },
+  {
+    "stack_id": 11,
+    "stack_name": "TypeScript",
+    "stack_icon": "https://i.imgur.com/iqhkmuG.png",
+    "category_id": 2
+  }
+]

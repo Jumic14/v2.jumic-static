@@ -1,0 +1,12 @@
+[
+  {
+    "curriculum_id": 1,
+    "curriculum_name": "curriculum",
+    "curriculum_link": "https://image.noelshack.com/fichiers/2024/16/6/1713620989-cv-julien-michel-d-veloppeur-junior.png"
+  },
+  {
+    "curriculum_id": 2,
+    "curriculum_name": "curriculum_en",
+    "curriculum_link": "https://image.noelshack.com/fichiers/2024/16/6/1713620995-cv-julien-michel-junior-developer.png"
+  }
+]

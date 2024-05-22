@@ -1,0 +1,13 @@
+<div [ngClass]="{ 'dark-mode': isDarkMode() }" id="full-content">
+  <header
+    class="sticky"
+    [ngClass]="{ 'dark-mode-header': isDarkMode() }"
+    [@animateHeader]
+  >
+    <app-header></app-header>
+  </header>
+  <router-outlet></router-outlet>
+  <footer>
+    <app-footer></app-footer>
+  </footer>
+</div>

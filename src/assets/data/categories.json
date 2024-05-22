@@ -1,0 +1,22 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Backend",
+    "category_name_en": "Backend"
+  },
+  {
+    "category_id": 2,
+    "category_name": "Frontend",
+    "category_name_en": "Frontend"
+  },
+  {
+    "category_id": 3,
+    "category_name": "Base de données",
+    "category_name_en": "Database"
+  },
+  {
+    "category_id": 4,
+    "category_name": "Autres (Outils, gestion de projet, ...)",
+    "category_name_en": "Others (Tools, project management, ...)"
+  }
+]

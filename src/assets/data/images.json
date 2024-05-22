@@ -1,0 +1,233 @@
+[
+  {
+    "image_id": 1,
+    "image_title": "Booki - Accueil",
+    "image_title_en": "Booki - Home",
+    "image_url": "https://i.imgur.com/nBXajVn.jpg",
+    "work_id": 1
+  },
+  {
+    "image_id": 2,
+    "image_title": "Booki - Partie hébergements",
+    "image_title_en": "Booki - Accomodations section",
+    "image_url": "https://i.imgur.com/pIYyUy6.jpg",
+    "work_id": 1
+  },
+  {
+    "image_id": 3,
+    "image_title": "Booki - Partie activités",
+    "image_title_en": "Booki - Activities section",
+    "image_url": "https://i.imgur.com/FwMe1k9.jpg",
+    "work_id": 1
+  },
+  {
+    "image_id": 4,
+    "image_title": "Booki - Accueil (version mobile)",
+    "image_title_en": "Booki - Home (mobile version)",
+    "image_url": "https://i.imgur.com/YZPp1Wr.jpg",
+    "work_id": 1
+  },
+  {
+    "image_id": 5,
+    "image_title": "Booki - Hébergements populaires (version mobile)",
+    "image_title_en": "Booki - Popular accomodations (mobile version)",
+    "image_url": "https://i.imgur.com/Q1AbrtV.jpg",
+    "work_id": 1
+  },
+  {
+    "image_id": 6,
+    "image_title": "Booki - Partie hébergements (version mobile)",
+    "image_title_en": "Booki - Accomodations section (mobile version)",
+    "image_url": "https://i.imgur.com/lbte4PH.jpg",
+    "work_id": 1
+  },
+  {
+    "image_id": 7,
+    "image_title": "Sophie Bluel - Accueil",
+    "image_title_en": "Sophie Bluel - Home",
+    "image_url": "https://i.imgur.com/7d3YNmS.jpg",
+    "work_id": 2
+  },
+  {
+    "image_id": 8,
+    "image_title": "Sophie Bluel - Galerie des projets",
+    "image_title_en": "Sophie Bluel - Projects gallery",
+    "image_url": "https://i.imgur.com/303BgWW.jpg",
+    "work_id": 2
+  },
+  {
+    "image_id": 11,
+    "image_title": "Sophie Bluel - Connexion",
+    "image_title_en": "Sophie Bluel - Log In",
+    "image_url": "https://i.imgur.com/Y0jbsSn.jpg",
+    "work_id": 2
+  },
+  {
+    "image_id": 13,
+    "image_title": "Sophie Bluel - Gestion des projets",
+    "image_title_en": "Sophie Bluel - Projects management",
+    "image_url": "https://i.imgur.com/rnNhajy.jpg",
+    "work_id": 2
+  },
+  {
+    "image_id": 14,
+    "image_title": "Sophie Bluel - Ajouter un nouveau projet",
+    "image_title_en": "Sophie Bluel - Add new project",
+    "image_url": "https://i.imgur.com/3kL4JVb.jpg",
+    "work_id": 2
+  },
+  {
+    "image_id": 15,
+    "image_title": "Kasa - Accueil",
+    "image_title_en": "Kasa - Home",
+    "image_url": "https://i.imgur.com/HmFOsSu.jpg",
+    "work_id": 3
+  },
+  {
+    "image_id": 16,
+    "image_title": "Kasa - Logement",
+    "image_title_en": "Kasa - Accomodation",
+    "image_url": "https://i.imgur.com/fEPIHgV.jpg",
+    "work_id": 3
+  },
+  {
+    "image_id": 18,
+    "image_title": "Kasa - À propos",
+    "image_title_en": "Kasa - About",
+    "image_url": "https://i.imgur.com/2MGeGPt.jpg",
+    "work_id": 3
+  },
+  {
+    "image_id": 20,
+    "image_title": "Kasa - Accueil (version mobile)",
+    "image_title_en": "Kasa - Home (mobile version)",
+    "image_url": "https://i.imgur.com/hwCzlfp.jpg",
+    "work_id": 3
+  },
+  {
+    "image_id": 21,
+    "image_title": "Kasa - Logement (version mobile)",
+    "image_title_en": "Kasa - (Accomodation (mobile version)",
+    "image_url": "https://i.imgur.com/wkE4i4c.jpg",
+    "work_id": 3
+  },
+  {
+    "image_id": 22,
+    "image_title": "Mon vieux Grimoire - Accueil",
+    "image_title_en": "Mon vieux Grimoire - Home",
+    "image_url": "https://i.imgur.com/PiBSsBm.jpg",
+    "work_id": 4
+  },
+  {
+    "image_id": 24,
+    "image_title": "Mon vieux Grimoire - Noter un livre",
+    "image_title_en": "Mon vieux Grimoire - Book rating",
+    "image_url": "https://i.imgur.com/QlpOTLu.jpg",
+    "work_id": 4
+  },
+  {
+    "image_id": 25,
+    "image_title": "Mon vieux Grimoire - Livres les mieux notés",
+    "image_title_en": "Mon vieux Grimoire - Best rated books",
+    "image_url": "https://i.imgur.com/myYofvR.jpg",
+    "work_id": 4
+  },
+  {
+    "image_id": 26,
+    "image_title": "Mon vieux Grimoire - Modifier un livre",
+    "image_title_en": "Mon vieux Grimoire - Update a book",
+    "image_url": "https://i.imgur.com/toQOW85.jpg",
+    "work_id": 4
+  },
+  {
+    "image_id": 28,
+    "image_title": "Portfolio JM - Accueil",
+    "image_title_en": "Portfolio JM - Home",
+    "image_url": "https://i.imgur.com/ttTnyO1.jpeg",
+    "work_id": 5
+  },
+  {
+    "image_id": 29,
+    "image_title": "Portfolio JM - Accueil",
+    "image_title_en": "Portfolio JM - Home",
+    "image_url": "https://i.imgur.com/l3Sj76x.jpeg",
+    "work_id": 5
+  },
+  {
+    "image_id": 30,
+    "image_title": "Portfolio JM - Réalisations",
+    "image_title_en": "Portfolio JM - Works",
+    "image_url": "https://i.imgur.com/UuI7NU7.jpeg",
+    "work_id": 5
+  },
+  {
+    "image_id": 31,
+    "image_title": "Portfolio JM - Certifications",
+    "image_title_en": "Portfolio JM - Certifications",
+    "image_url": "https://i.imgur.com/mYLAL6v.jpeg",
+    "work_id": 5
+  },
+  {
+    "image_id": 33,
+    "image_title": "Celestial Observatory - Accueil",
+    "image_title_en": "Celestial Observatory - Home",
+    "image_url": "https://i.imgur.com/LrjsT9A.jpeg",
+    "work_id": 6
+  },
+  {
+    "image_id": 34,
+    "image_title": "Celestial Observatory - Portail",
+    "image_title_en": "Celestial Observatory - Portal",
+    "image_url": "https://i.imgur.com/SQwhGIB.jpeg",
+    "work_id": 6
+  },
+  {
+    "image_id": 35,
+    "image_title": "Celestial Observatory - Suivi de l'ISS",
+    "image_title_en": "Celestial Observatory - ISS Tracking",
+    "image_url": "https://i.imgur.com/ufgqVZW.jpeg",
+    "work_id": 6
+  },
+  {
+    "image_id": 36,
+    "image_title": "Celestial Observatory - Détail d'un corps céleste",
+    "image_title_en": "Celestial Observatory - Celestial body details",
+    "image_url": "https://i.imgur.com/mNBYQfD.jpeg",
+    "work_id": 6
+  },
+  {
+    "image_id": 37,
+    "image_title": "Celestial Observatory - Galerie photos",
+    "image_title_en": "Celestial Observatory - Photo gallery",
+    "image_url": "https://i.imgur.com/GnxjQY2.jpeg",
+    "work_id": 6
+  },
+  {
+    "image_id": 38,
+    "image_title": "V2 Jumic",
+    "image_title_en": "V2 Jumic",
+    "image_url": "https://i.imgur.com/hfnQzFU.png",
+    "work_id": 7
+  },
+  {
+    "image_id": 39,
+    "image_title": "V2 Jumic - Accueil",
+    "image_title_en": "V2 Jumic - Home",
+    "image_url": "https://i.imgur.com/9X41xmC.jpeg",
+    "work_id": 7
+  },
+  {
+    "image_id": 40,
+    "image_title": "V2 Jumic - Domaine de compétences",
+    "image_title_en": "V2 Jumic - Expertise area",
+    "image_url": "https://imgur.com/vIrb5ez.jpeg",
+    "work_id": 7
+  },
+  {
+    "image_id": 41,
+    "image_title": "V1 Jumic - Réalisations",
+    "image_title_en": "V1 Jumic - Works",
+    "image_url": "https://i.imgur.com/tBTnDWV.jpeg",
+    "work_id": 7
+  }
+]

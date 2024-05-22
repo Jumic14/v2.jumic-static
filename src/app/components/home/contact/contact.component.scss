@@ -1,0 +1,63 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  p {
+    width: 60%;
+    span {
+      font-family: var(--codeFont);
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
+@media only screen and (min-width: 1921px) and (max-width: 2500px) {
+  .contact {
+    p {
+      font-size: 22px;
+      span {
+        a {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 650px) {
+  .contact {
+    p {
+      font-size: 14px;
+      span {
+        a {
+          font-size: 12px;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 450px) {
+  .contact {
+    p {
+      width: 80%;
+      font-size: 12px;
+      span {
+        a {
+          font-size: 10px;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 320px) {
+  .contact {
+    p {
+      font-size: 10px;
+      span {
+        a {
+          font-size: 8px;
+        }
+      }
+    }
+  }
+}
